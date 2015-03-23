@@ -1,0 +1,70 @@
+[Files]
+File0=BinaryTree.java
+File1=GUI_MorseAnwendung.java
+File2=Morsecodierer.java
+
+[Box:  - BinaryTree<ContentType>]
+X=478
+Y=329
+MinVis=0
+ShowParameter=4
+SortOrder=0
+ShowIcons=0
+FontSize=10
+FontName=MS Sans Serif
+
+[Box:  - BinaryTree<ContentType>$BTNode<CT>]
+X=142
+Y=486
+MinVis=0
+ShowParameter=4
+SortOrder=0
+ShowIcons=0
+FontSize=10
+FontName=MS Sans Serif
+
+[Box:  - GUI_MorseAnwendung]
+X=47
+Y=55
+MinVis=0
+ShowParameter=4
+SortOrder=0
+ShowIcons=0
+FontSize=10
+FontName=MS Sans Serif
+
+[Box:  - Morsecodierer]
+X=483
+Y=80
+MinVis=0
+ShowParameter=4
+SortOrder=0
+ShowIcons=0
+FontSize=10
+FontName=MS Sans Serif
+
+[Diagram]
+comments=0
+OffsetX=0
+OffsetY=0
+Visibility=0
+ShowParameter=4
+SortOrder=0
+ShowIcons=0
+ShowConnections=0
+Fontname=MS Sans Serif
+Fontsize=10
+ShowObjectDiagram=0
+
+[Connections]
+V0=GUI_MorseAnwendung#Morsecodierer#AssociationDirected####0#0#0
+
+[Interactive]
+I0=
+
+[Window]
+Left=75
+Top=75
+Width=1075
+Height=504
+
